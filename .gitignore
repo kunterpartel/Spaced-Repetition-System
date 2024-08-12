@@ -1,0 +1,11 @@
+card-service/build
+.gradle
+card-service/.gradle
+
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+out/
